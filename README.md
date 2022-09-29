@@ -11,9 +11,9 @@ Knowing that most people are not very familiar with the Linux system, but they w
 * chose [Windows] CARLA_0.9.13.zip
 ### 2.unzip the file  
 ### 3.Run CarlaUESTC4.exe
-'''
+```
 conda create -n carla python=3.7
 conda activate carla
 cd ~/PythonAPI/examples
 python automatic_control.py
-'''
+```
