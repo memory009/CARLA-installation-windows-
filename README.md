@@ -24,4 +24,24 @@ cd ~/PythonAPI/examples
 python automatic_control.py
 ```
 ## Issure
-* If your terminal show that ```no module named numpy```or```no module named shapely```
+* If your terminal show that ```no module named numpy```or```no module named shapely```or```no module named pygame``` , please install them using pip:
+```
+pip install numpy
+pip install shapely
+pip install pygame
+```
+* If your terminal show that  ```no module named carla``` , please:
+```
+cd ~/PythonAPI/carla/dist
+pip install carla-0.9.13-cp37-cp37m-win_amd64.whl
+```
+
+## Test
+```
+conda create -n carla python=3.7
+conda activate carla
+cd ~/PythonAPI/examples
+python automatic_control.py
+```
+* If you get a movie like this , you have fully installed carla environment！！ 
+！[CARLA example]https://pic3.zhimg.com/80/v2-7e4f82bba4c5f6bcf3a96736dfac77c2_1440w.webp
