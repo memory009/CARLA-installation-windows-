@@ -44,4 +44,4 @@ cd ~/PythonAPI/examples
 python automatic_control.py
 ```
 * If you get a movie like this , you have fully installed carla environment！！ 
-！[CARLA example]https://pic3.zhimg.com/80/v2-7e4f82bba4c5f6bcf3a96736dfac77c2_1440w.webp
+！[CARLA example](https://pic3.zhimg.com/v2-7e4f82bba4c5f6bcf3a96736dfac77c2_b.jpg)
