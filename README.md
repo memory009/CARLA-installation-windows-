@@ -36,7 +36,7 @@ pip install pygame
 * If your terminal show that  ```no module named carla``` , please:
 ```
 cd ~/PythonAPI/carla/dist
-#if you use carla-0.9.10,you will find a similar ```.whl``` named ```carla-0.9.10-cp36-cp36m-win_amd64.whl```
+#if you use carla-0.9.10,you will find a similar .whl named carla-0.9.10-cp36-cp36m-win_amd64.whl
 pip install carla-0.9.13-cp37-cp37m-win_amd64.whl
 ```
 
