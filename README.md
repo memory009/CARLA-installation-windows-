@@ -3,8 +3,8 @@
 
 Knowing that most people are not very familiar with the Linux system, but they want to try to get in touch with the field of autonomous driving, so I will share the method of installing carla under win here, hoping to help some people who want to learn how to get started with carla but don't know how to configure it.  
 
-***I highly recommend you to use python=3.7 if you want to use CARLA 0.9.13.  
-*please pay attention the version of CARLA 0.9.10 recommend us to use python=3.6**  
+**I highly recommend you to use python=3.7 if you want to use CARLA 0.9.13.**  
+**please pay attention the version of CARLA 0.9.10 recommend us to use python=3.6**
 
 ## Install CARLA 
 ### references:
