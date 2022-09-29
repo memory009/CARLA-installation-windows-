@@ -6,9 +6,15 @@ Knowing that most people are not very familiar with the Linux system, but they w
 **I highly recommend you to use python = 3.7 if you want to use CARLA 0.9.13 . I have used another version of CARLA 0.9.10 ， but it recommend us to use python = 3.6**  
 
 ## Install CARLA 
+### references:
+```
+https://github.com/WilliamWu96/Carla_Installation#desktop-version-installation
+https://zhuanlan.zhihu.com/p/338927297
+https://zhuanlan.zhihu.com/p/390143776
+```
 ### 1.Install CARLA 0.9.13
 * https://github.com/carla-simulator/carla/releases 
-* chose [Windows] CARLA_0.9.13.zip
+* chose [Windows] CARLA_0.9.13.zip and download it.
 ### 2.unzip the file  
 ### 3.Run CarlaUESTC4.exe
 ```
@@ -17,3 +23,5 @@ conda activate carla
 cd ~/PythonAPI/examples
 python automatic_control.py
 ```
+## Issure
+* If your terminal show that ```no module named numpy```or```no module named shapely```
